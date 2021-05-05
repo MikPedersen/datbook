@@ -22,6 +22,6 @@ class TweetController extends Controller
             'body' => $attributes['body']
         ]);
 
-        return redirect()->route('home'); //the route method is important for this to not send us to /home endpoint
+        return redirect('/tweets.index');
     }
 }

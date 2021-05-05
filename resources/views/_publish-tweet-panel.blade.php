@@ -6,7 +6,7 @@
         <textarea
             name="body"
             class="w-full"
-            placeholder="What's up Dat?"
+            placeholder="Tell other Dat's what's up"
             required
             autofocus
         ></textarea>
