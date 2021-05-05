@@ -21,11 +21,10 @@
 </head>
 <body>
     <div id="app">
-        <section class="px-8 py-4">
+        <section class="px-8 py-4 mb-6">
             <header class="container mx-auto">
                 <h1>
-                    <!-- Todo billedet skal opdateres -->
-                    <img src="/images/logo.svg"
+                    <img src="/images/datbook.svg"
                     alt="Datbook">
                 </h1>
             </header>
